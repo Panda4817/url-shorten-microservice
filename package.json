@@ -23,7 +23,7 @@
 	"keywords": [
 		"node",
 		"express",
-    "mongodb"
+		"mongodb"
 	],
 	"license": "MIT"
 }
